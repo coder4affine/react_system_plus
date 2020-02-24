@@ -1,0 +1,21 @@
+{
+  "name": "react_system_plus",
+  "version": "0.0.1",
+  "description": "react training",
+  "main": "index.js",
+  "repository": "https://github.com/coder4affine/react_system_plus",
+  "author": "Yagnesh Modh <yagnesh.ash.modh@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
